@@ -75,7 +75,6 @@ lambda2 = seq_lambda2( I_col(1) )
 %% STEP 4: Running for 5 times
 rng('default')
 ko = 1;
-for percent = 0.1 : 0.2 : 0.9
     for k = 1 : times
         train_num = round(n * 0.9);
         %Generate 90% training and 10% testing
@@ -111,7 +110,6 @@ for percent = 0.1 : 0.2 : 0.9
     
     Results(ko, :)=[percent, mean(need1), std(need1), lambda1, lambda2, mu1, mu2, maxiter, tol1];
     ko = ko + 1;
-end
 
 %% STEP 5: Saving Results
 save Arts_FNNM Results
