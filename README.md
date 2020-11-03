@@ -17,9 +17,11 @@ If you have any questions or suggestions with the code, please let us know. Cont
 
 Yang M, Li Y, Wang J. Feature and Nuclear Norm Minimization for Matrix Completion[J]. IEEE Transactions on Knowledge and Data Engineering, 2020. DOI: 10.1109/tkde.2020.3005978
 
+```
 @article{Yang2020Feature,
   title={Feature and Nuclear Norm Minimization for Matrix Completion},
   author={Yang, Mengyun and Li, Yaohang and Wang, Jianxin},
   journal={IEEE Transactions on Knowledge and Data Engineering},
   year={2020},
 }
+```
