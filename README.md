@@ -11,17 +11,18 @@ Our study shows that, in many applications, the to-be-complete matrix can be rep
 
 # Contact
 
-If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyunyang@csu.edu.cn
+If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyun_yang@126.com
 
 # Citation
-
-Yang M, Li Y, Wang J. Feature and Nuclear Norm Minimization for Matrix Completion[J]. IEEE Transactions on Knowledge and Data Engineering, 2020. DOI: 10.1109/tkde.2020.3005978
-
+Mengyun Yang, Yaohang Li, Jianxin Wang. Feature and Nuclear Norm Minimization for Matrix Completion[J]. IEEE Transactions on Knowledge and Data Engineering, 2022, 34(5), 2190-2199.
 ```
-@article{Yang2020Feature,
+@article{yang2022feature,
   title={Feature and Nuclear Norm Minimization for Matrix Completion},
   author={Yang, Mengyun and Li, Yaohang and Wang, Jianxin},
   journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2020},
+  volume={34},
+  number={5},
+  pages={2190--2199},
+  year={2022}
 }
 ```
